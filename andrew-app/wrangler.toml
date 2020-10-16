@@ -1,0 +1,4 @@
+name = "andrew-app"
+type = "webpack"
+account_id = "dd577219d2995cd577287e0045920274"
+workers_dev = true
